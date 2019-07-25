@@ -1,0 +1,86 @@
+h1,h2{
+    color: black;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(240, 148, 10, 0.3) 
+}
+
+#p1{
+    text-align: center;
+    color: rgb(235, 131, 12);
+}
+
+button{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#im{
+
+}
+
+
+#p2{
+    display: block;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+
+}
+
+header{
+  background-image: url("http://www.hdnicewallpapers.com/Walls/Big/Computers/Laptop_on_Desk_HD_Wallpaper.jpg");
+  padding: 10px;
+  margin: 90px;
+  background-size: 100%;
+  block-size: 400px; 
+}
+
+h3{
+    text-align: center;
+    color: white;
+}
+
+#div5{
+    display: block;
+float: left;
+margin-left: 70px;
+}
+
+#div6{
+    display: block;
+float: right;
+background-color: rgba(240, 148, 10, 0.3);
+padding: 20px 500px 20px 500px;
+margin: 10px
+  
+}
+
+#div9{
+    display: block;
+    float: left;
+    background-color: rgba(240, 148, 10, 0.3);
+    padding: 20px 500px 20px 500px;
+    margin: 10px;
+}
+#div8{
+  display: block;    
+float: right;
+padding: auto;
+margin: 70px 20px 20px 20px;
+}
+
+section{
+}
+
+footer{
+    display: block;
+    background-color: rgb(29, 31, 29);
+    padding: auto;
+    margin: 400px 10px 10px 10px; 
+}
+
+ 
